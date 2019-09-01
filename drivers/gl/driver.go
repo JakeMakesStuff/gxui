@@ -97,6 +97,10 @@ func (d *driver) driverLoop() {
 	}
 }
 
+func (d *driver) GetViewports() *list.List {
+	return d.viewports
+}
+
 func (d *driver) wake() {
 	glfw.PostEmptyEvent()
 }
