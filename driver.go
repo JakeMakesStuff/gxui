@@ -5,6 +5,7 @@
 package gxui
 
 import (
+	"container/list"
 	"image"
 
 	"github.com/google/gxui/math"
@@ -24,6 +25,8 @@ type Driver interface {
 	Terminate()
 	SetClipboard(str string)
 	GetClipboard() (string, error)
+
+	GetViewports() *list.List
 
 	// CreateFont loads a font from the provided TrueType bytes.
 	CreateFont(data []byte, size int) (Font, error)
