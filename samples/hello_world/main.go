@@ -7,11 +7,11 @@ package main
 import (
 	"time"
 
-	"github.com/google/gxui"
-	"github.com/google/gxui/drivers/gl"
-	"github.com/google/gxui/gxfont"
-	"github.com/google/gxui/math"
-	"github.com/google/gxui/samples/flags"
+	"github.com/jakemakesstuff/gxui"
+	"github.com/jakemakesstuff/gxui/drivers/gl"
+	"github.com/jakemakesstuff/gxui/gxfont"
+	"github.com/jakemakesstuff/gxui/math"
+	"github.com/jakemakesstuff/gxui/samples/flags"
 )
 
 func appMain(driver gxui.Driver) {

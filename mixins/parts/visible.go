@@ -5,7 +5,7 @@
 package parts
 
 import (
-	"github.com/google/gxui/mixins/outer"
+	"github.com/jakemakesstuff/gxui/mixins/outer"
 )
 
 type VisibleOuter interface {

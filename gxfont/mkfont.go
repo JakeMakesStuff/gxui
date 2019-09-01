@@ -21,8 +21,8 @@ import (
 )
 
 var urls = map[string]string{
-	"roboto_regular":  "https://github.com/google/fonts/raw/master/apache/roboto/Roboto-Regular.ttf",
-	"droid_sans_mono": "https://github.com/google/fonts/raw/master/apache/droidsansmono/DroidSansMono.ttf",
+	"roboto_regular":  "https://github.com/jakemakesstuff/fonts/raw/master/apache/roboto/Roboto-Regular.ttf",
+	"droid_sans_mono": "https://github.com/jakemakesstuff/fonts/raw/master/apache/droidsansmono/DroidSansMono.ttf",
 }
 
 func write(name, url string) {

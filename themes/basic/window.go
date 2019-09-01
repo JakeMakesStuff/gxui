@@ -5,8 +5,8 @@
 package basic
 
 import (
-	"github.com/google/gxui"
-	"github.com/google/gxui/mixins"
+	"github.com/jakemakesstuff/gxui"
+	"github.com/jakemakesstuff/gxui/mixins"
 )
 
 type Window struct {

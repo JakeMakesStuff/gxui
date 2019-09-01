@@ -5,7 +5,7 @@
 package parts
 
 import (
-	"github.com/google/gxui"
+	"github.com/jakemakesstuff/gxui"
 )
 
 type FocusableOuter interface{}

@@ -5,9 +5,9 @@
 package mixins
 
 import (
-	"github.com/google/gxui"
-	"github.com/google/gxui/interval"
-	"github.com/google/gxui/math"
+	"github.com/jakemakesstuff/gxui"
+	"github.com/jakemakesstuff/gxui/interval"
+	"github.com/jakemakesstuff/gxui/math"
 )
 
 type CodeEditorLinePaintInfo struct {

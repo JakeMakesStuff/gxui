@@ -12,10 +12,10 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/google/gxui"
-	"github.com/google/gxui/math"
 	"github.com/goxjs/gl"
 	"github.com/goxjs/glfw"
+	"github.com/jakemakesstuff/gxui"
+	"github.com/jakemakesstuff/gxui/math"
 )
 
 // Maximum time allowed for application to process events on termination.

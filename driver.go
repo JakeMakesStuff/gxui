@@ -8,7 +8,7 @@ import (
 	"container/list"
 	"image"
 
-	"github.com/google/gxui/math"
+	"github.com/jakemakesstuff/gxui/math"
 )
 
 type Driver interface {

@@ -9,11 +9,11 @@ import (
 	"sync/atomic"
 	"unicode"
 
-	"github.com/google/gxui"
-	"github.com/google/gxui/drivers/gl/platform"
-	"github.com/google/gxui/math"
 	"github.com/goxjs/gl"
 	"github.com/goxjs/glfw"
+	"github.com/jakemakesstuff/gxui"
+	"github.com/jakemakesstuff/gxui/drivers/gl/platform"
+	"github.com/jakemakesstuff/gxui/math"
 )
 
 const viewportDebugEnabled = false

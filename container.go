@@ -8,7 +8,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/google/gxui/math"
+	"github.com/jakemakesstuff/gxui/math"
 )
 
 type Child struct {

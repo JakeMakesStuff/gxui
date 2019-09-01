@@ -5,7 +5,7 @@
 package outer
 
 import (
-	"github.com/google/gxui"
+	"github.com/jakemakesstuff/gxui"
 )
 
 type Painter interface {

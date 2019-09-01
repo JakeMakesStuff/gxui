@@ -10,11 +10,11 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/google/gxui"
-	"github.com/google/gxui/drivers/gl"
-	"github.com/google/gxui/math"
-	"github.com/google/gxui/samples/file_dlg/roots"
-	"github.com/google/gxui/samples/flags"
+	"github.com/jakemakesstuff/gxui"
+	"github.com/jakemakesstuff/gxui/drivers/gl"
+	"github.com/jakemakesstuff/gxui/math"
+	"github.com/jakemakesstuff/gxui/samples/file_dlg/roots"
+	"github.com/jakemakesstuff/gxui/samples/flags"
 )
 
 var (

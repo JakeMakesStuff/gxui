@@ -4,7 +4,7 @@
 
 package math
 
-import test "github.com/google/gxui/testing"
+import test "github.com/jakemakesstuff/gxui/testing"
 import "testing"
 
 func TestRectConstrainWithin(t *testing.T) {
